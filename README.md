@@ -13,7 +13,7 @@ A pair of Python scripts for inspecting and swapping Rocket League cosmetic asse
 - `cryptography` library
 
 ```bash
-pip install cryptography / python -m pip install cryptography ##if more than 1 version of Python is installed on your PC.
+pip install cryptography 
 ```
 
 ## If more than 1 version of Python is installed on your PC.
