@@ -13,8 +13,15 @@ A pair of Python scripts for inspecting and swapping Rocket League cosmetic asse
 - `cryptography` library
 
 ```bash
-pip install cryptography
+pip install cryptography / python -m pip install cryptography ##if more than 1 version of Python is installed on your PC.
 ```
+
+## If more than 1 version of Python is installed on your PC.
+
+```bash
+python -m pip install cryptography 
+```
+
 
 Both scripts use Python's built-in `tkinter` for their GUIs. On Windows this is included by default. On Linux you may need to install it separately (e.g. `sudo apt install python3-tk`).
 
