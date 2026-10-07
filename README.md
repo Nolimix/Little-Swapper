@@ -1,6 +1,7 @@
 # RL UPK Tools
 
 A pair of Python scripts for inspecting and swapping Rocket League cosmetic assets (`.upk` packages).
+Development is currently in pause due to a lack of time and interesting in the projet rn.
 
 - **`rl_upk_editor.py`** - Low-level UPK inspector and editor (GUI)
 - **`rl_asset_swapper.py`** - High-level cosmetic asset swapper (GUI + CLI)
